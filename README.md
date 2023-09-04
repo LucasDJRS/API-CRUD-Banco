@@ -1,5 +1,5 @@
-# API-CRUD-Banco
-Pequeno CRUD para um banco cujo o objetivo é:
+# Sistema de Banco
+Pequeno CRUD para um sistema de banco cujo o objetivo é:
 <p>*Criar conta bancária;</p>
 <p>*Listar contas bancárias;</p>
 <p>*Atualizar os dados do usuário da conta bancária;</p>
